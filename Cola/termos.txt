@@ -1,6 +1,0 @@
-pyautogui -> fazer automações no computador
-pyautogui.press -> apertar teclas
-pyautogui.write -> escrever textos
-pyautogui.click -> clicar em posições da tela
-pyautogui.PAUSE -> adicionar pausas entre as ações
-pyautogui.position() -> descobrir a posição do mouse na tela
